@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root>
-  <!--
   <DX9>
     <StructureAddress>132E610</StructureAddress>
     <ZoomCurrent>f8</ZoomCurrent>
@@ -8,7 +7,6 @@
     <FovCurrent>104</FovCurrent>
     <FovMax>10C</FovMax>
   </DX9>
-  -->
   <DX11>
     <StructureAddress>F929E180</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
